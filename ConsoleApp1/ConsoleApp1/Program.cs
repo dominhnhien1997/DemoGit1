@@ -19,6 +19,7 @@ namespace ConsoleApp1
             b = Convert.ToInt16(Console.ReadLine());
             int c = a + b;
             Console.WriteLine("tong cua hai so la :"+c);
+            // day la  loi that ngo ngan nhi 
             Console.ReadKey();
         }
     }
